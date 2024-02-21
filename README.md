@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishisingh96
 - 👀 I’m interested in coing.
-- 🌱 I’m currently learning OOPs in c++ and Data stucture.
+- 🌱 I’m currently learning Spring boot , React and Data stucture.
 - 💞️ I’m looking to collaborate on project.
 - 📫 How to reach me for coding project.
 
